@@ -4,3 +4,7 @@
 还要测试
 
 typora测试
+
+图片测试
+
+![image-20220119165710239](C:\Users\sxf\gitbook\image-20220119165710239.png)
